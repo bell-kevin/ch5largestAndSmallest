@@ -18,9 +18,9 @@ NOTE: Remember the requirements for a header and a pause at the end of the progr
 
 Submission: Submit a single zipped folder containing all of the specified screenshots AND the root folder for the project.
 
-![1](https://github.com/bell-kevin/ch5speedConversionChart/blob/main/ch5speedConversionChart/speedConvert.PNG)
+![1](https://github.com/bell-kevin/ch5largestAndSmallest/blob/main/ch5largestAndSmallest/-99.PNG)
 
-![1](https://github.com/bell-kevin/ch5speedConversionChart/blob/main/ch5speedConversionChart/speedConvert.PNG)
+![2](https://github.com/bell-kevin/ch5largestAndSmallest/blob/main/ch5largestAndSmallest/smallest.PNG)
 
 == We're Using GitHub Under Protest ==
 
