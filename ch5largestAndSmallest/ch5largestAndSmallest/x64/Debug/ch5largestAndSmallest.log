@@ -1,0 +1,6 @@
+﻿  ch5largestAndSmallest.cpp
+C:\Users\4800590195\source\repos\ch5largestAndSmallest\ch5largestAndSmallest\ch5largestAndSmallest.cpp(9,46): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\4800590195\source\repos\ch5largestAndSmallest\ch5largestAndSmallest\ch5largestAndSmallest.cpp(9,35): warning C4309: 'initializing': truncation of constant value
+C:\Users\4800590195\source\repos\ch5largestAndSmallest\ch5largestAndSmallest\ch5largestAndSmallest.cpp(9,68): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\4800590195\source\repos\ch5largestAndSmallest\ch5largestAndSmallest\ch5largestAndSmallest.cpp(9,57): warning C4309: 'initializing': truncation of constant value
+  ch5largestAndSmallest.vcxproj -> C:\Users\4800590195\source\repos\ch5largestAndSmallest\x64\Debug\ch5largestAndSmallest.exe
